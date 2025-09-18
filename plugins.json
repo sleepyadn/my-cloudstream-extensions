@@ -11,7 +11,7 @@
     "version": 1,
     "internalName": "AkwamProvider",
     "name": "AkwamProvider",
-    "url": "https://github.com/sleepyadn/my-cloudstream-extensions/raw/main/build/AkwamProvider.cs3"
+    "url": "https://github.com/sleepyadn/my-cloudstream-extensions/raw/main/plugins/AkwamProvider.cs3"
   },
   {
     "iconUrl": "https://www.google.com/s2/favicons?domain=anime4up.tv&sz=%size%",
@@ -26,7 +26,7 @@
     "internalName": "Anime4upPack",
     "name": "Anime4upPack",
     "description": "This pack contains Anime4up and Witanime",
-    "url": "https://github.com/sleepyadn/my-cloudstream-extensions/raw/main/build/Anime4upPack.cs3"
+    "url": "https://github.com/sleepyadn/my-cloudstream-extensions/raw/main/plugins/Anime4upPack.cs3"
   },
   {
     "iconUrl": "https://www.google.com/s2/favicons?domain=tv.egydead.live&sz=%size%",
@@ -40,7 +40,7 @@
     "version": 1,
     "internalName": "EgyDeadProvider",
     "name": "EgyDeadProvider",
-    "url": "https://github.com/sleepyadn/my-cloudstream-extensions/raw/main/build/EgyDeadProvider.cs3"
+    "url": "https://github.com/sleepyadn/my-cloudstream-extensions/raw/main/plugins/EgyDeadProvider.cs3"
   },
   {
     "iconUrl": "https://www.google.com/s2/favicons?domain=faselhd.io&sz=%size%",
@@ -54,6 +54,6 @@
     "version": 1,
     "internalName": "FaselHDProvider",
     "name": "FaselHDProvider",
-    "url": "https://github.com/sleepyadn/my-cloudstream-extensions/raw/main/build/FaselHDProvider.cs3"
+    "url": "https://github.com/sleepyadn/my-cloudstream-extensions/raw/main/plugins/FaselHDProvider.cs3"
   }
 ]
