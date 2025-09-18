@@ -1,0 +1,8 @@
+{
+  "name": "sleepyadn",
+  "description": "Cloudstream Arabic Providers Collection by sleepyadn",
+  "manifestVersion": 1,
+  "pluginLists": [
+    "https://github.com/sleepyadn/my-cloudstream-extensions/raw/main/plugins.json"
+  ]
+}

@@ -1,0 +1,59 @@
+[
+  {
+    "iconUrl": "https://www.google.com/s2/favicons?domain=akwam.to&sz=%size%",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/sleepyadn/my-cloudstream-extensions",
+    "fileSize": 0,
+    "status": 1,
+    "language": "ar",
+    "authors": ["Blatzar"],
+    "tvTypes": ["TvSeries", "Movie", "Anime", "Cartoon"],
+    "version": 1,
+    "internalName": "AkwamProvider",
+    "name": "AkwamProvider",
+    "url": "https://github.com/sleepyadn/my-cloudstream-extensions/raw/main/build/AkwamProvider.cs3"
+  },
+  {
+    "iconUrl": "https://www.google.com/s2/favicons?domain=anime4up.tv&sz=%size%",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/sleepyadn/my-cloudstream-extensions",
+    "fileSize": 0,
+    "status": 1,
+    "language": "ar",
+    "authors": ["ImZaw"],
+    "tvTypes": ["Anime", "AnimeMovie", "Others"],
+    "version": 1,
+    "internalName": "Anime4upPack",
+    "name": "Anime4upPack",
+    "description": "This pack contains Anime4up and Witanime",
+    "url": "https://github.com/sleepyadn/my-cloudstream-extensions/raw/main/build/Anime4upPack.cs3"
+  },
+  {
+    "iconUrl": "https://www.google.com/s2/favicons?domain=tv.egydead.live&sz=%size%",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/sleepyadn/my-cloudstream-extensions",
+    "fileSize": 0,
+    "status": 1,
+    "language": "ar",
+    "authors": ["ImZaw"],
+    "tvTypes": ["TvSeries", "Movie", "Anime"],
+    "version": 1,
+    "internalName": "EgyDeadProvider",
+    "name": "EgyDeadProvider",
+    "url": "https://github.com/sleepyadn/my-cloudstream-extensions/raw/main/build/EgyDeadProvider.cs3"
+  },
+  {
+    "iconUrl": "https://www.google.com/s2/favicons?domain=faselhd.io&sz=%size%",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/sleepyadn/my-cloudstream-extensions",
+    "fileSize": 0,
+    "status": 1,
+    "language": "ar",
+    "authors": ["ImZaw"],
+    "tvTypes": ["TvSeries", "Movie", "Anime", "AsianDrama"],
+    "version": 1,
+    "internalName": "FaselHDProvider",
+    "name": "FaselHDProvider",
+    "url": "https://github.com/sleepyadn/my-cloudstream-extensions/raw/main/build/FaselHDProvider.cs3"
+  }
+]
